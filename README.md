@@ -1,6 +1,4 @@
-# pizza-ingredient-problem
-
-# Pizza Preferences Optimizer
+# Pizza-Ingredient-Problem
 
 This repository contains code that optimizes the selection of ingredients for a pizza to maximize the number of potential clients visiting a pizzeria. Each client has their own pizza preferences, and they will visit the pizzeria if their preferences are met.
 
