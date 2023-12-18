@@ -2,7 +2,7 @@
 
 ![pizzeria](https://github.com/rishii100/pizza-ingredient-problem/assets/98979613/ad4a9754-7e9a-437f-ac55-10b0056fe1c3)
 
-This repository contains code that optimizes the selection of ingredients for a pizza to maximize the number of potential clients visiting a pizzeria. Each client has their own pizza preferences, and they will visit the pizzeria if their preferences are met.
+The code optimizes the selection of ingredients for a pizza to maximize the number of potential clients visiting a pizzeria. Each client has their own pizza preferences, and they will visit the pizzeria if their preferences are met.
 
 ## Problem Description
 
